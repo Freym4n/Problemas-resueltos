@@ -19,7 +19,6 @@ void solve() {
     }
     ans = high - low + 1;
     cout << ans << "\n";
-
 }
 
 int main() {
